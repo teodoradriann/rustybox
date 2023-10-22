@@ -26,6 +26,12 @@ Install rustybox
 cargo install --path .
 ```
 
+If the `rustybox` command can't be found, be sure to add the default cargo installation folder into the PATH environment variable
+
+```bash
+export PATH=/home/<your username here>/.cargo/bin:$PATH
+```
+
 Run tests
 
 ```bash
