@@ -1,3 +1,4 @@
+Initial commit
 # Rustybox
 Describe your solution for the homework.
 
